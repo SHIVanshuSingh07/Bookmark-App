@@ -11,7 +11,7 @@ body{
     margin: 0;
     font-family: joan, sans-serif;
     background-color: var(--border-color);
-    background-image: url("/https://github.com/SHIVanshuSingh07/Bookmark-App/blob/main/background.png");
+    background-image: url("//photo/background.png");
     height: 693px; 
     background-position: center; 
     background-repeat: no-repeat; 
